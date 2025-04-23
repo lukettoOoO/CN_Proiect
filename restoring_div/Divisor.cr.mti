@@ -1,0 +1,36 @@
+C:/Users/Bianca/OneDrive/Desktop/CN/restoring_tb.v {1 {vlog -work work -nocovercells C:/Users/Bianca/OneDrive/Desktop/CN/restoring_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module restoring_tb
+
+Top level modules:
+	restoring_tb
+
+} {} {}} C:/Users/Bianca/OneDrive/Desktop/CN/fac.v {1 {vlog -work work -nocovercells C:/Users/Bianca/OneDrive/Desktop/CN/fac.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module fac
+
+Top level modules:
+	fac
+
+} {} {}} C:/Users/Bianca/OneDrive/Desktop/CN/restoring_div.v {1 {vlog -work work -nocovercells C:/Users/Bianca/OneDrive/Desktop/CN/restoring_div.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module restoring_div
+
+Top level modules:
+	restoring_div
+
+} {} {}} C:/Users/Bianca/OneDrive/Desktop/CN/define_sign.v {1 {vlog -work work -nocovercells C:/Users/Bianca/OneDrive/Desktop/CN/define_sign.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module define_sign
+
+Top level modules:
+	define_sign
+
+} {} {}} C:/Users/Bianca/OneDrive/Desktop/CN/parallel_adder.v {1 {vlog -work work -nocovercells C:/Users/Bianca/OneDrive/Desktop/CN/parallel_adder.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module parallel_adder
+
+Top level modules:
+	parallel_adder
+
+} {} {}}
